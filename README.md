@@ -140,3 +140,20 @@ Next.js
 MSSQL
 .NET
 Node.js
+```
+
+---
+📈 GitHub Activity Focus
+
+I use GitHub for:
+
+Product development tracking
+Project documentation
+Code versioning
+Technical notes
+Reusable software structures
+Business application samples
+📫 Contact
+Website: https://
+Email: k
+GitHub: https://github.com/AKorkutCoLak
